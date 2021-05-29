@@ -1,0 +1,13 @@
+.planeBanner{
+    width:95%;
+    margin: auto;
+    border-radius: 10px;
+    background-image: url(../../../images//planeBanner.png);
+    background-position: center;
+    height: 50vh;
+}
+
+.planeBannerBackground{
+    background-color: rgba(0, 0, 0,0.3);
+    border-radius: 10px;
+}

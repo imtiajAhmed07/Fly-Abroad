@@ -1,0 +1,19 @@
+.modalBox{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modalImage{
+    border-radius: 10px;
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.modalImage:hover{
+    color: black;
+}
+
+.modalImage > img{
+    border-radius: 10px;
+}

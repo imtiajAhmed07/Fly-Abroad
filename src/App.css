@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&family=Shrikhand&display=swap');;
+
+.main-text{
+  color: #ff385c;
+}
+
+.text-black{
+  color: black;
+}
+
+.text-white{
+  color: white;
+}
+
+a, Link{
+  text-decoration: none;
+}
+
+.main-btn{
+  padding: 7px 25px;
+  font-weight: bold;
+  border-radius: 6px;
+  border: none;
+  background-color: #ff385c;
+  color: white;
+}
+
+.main-btn:hover{
+  color: white;
+}

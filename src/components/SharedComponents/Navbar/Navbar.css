@@ -1,0 +1,24 @@
+.mainLogo{
+    font-family: 'Shrikhand', cursive;
+}
+
+.mainLogo:hover{
+    color: #ff385c;
+}
+
+.nav-text{
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+.userImg{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    border: 1px solid black;
+}
+
+.userImgIcon{
+    width: 100%;
+    height: 100%;
+}
