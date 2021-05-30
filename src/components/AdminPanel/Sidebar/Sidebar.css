@@ -1,0 +1,9 @@
+.sidebar li{
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.sidebarLogo{
+    border-bottom: 1px solid black;
+    padding-bottom: 25px;
+}
